@@ -56,7 +56,7 @@ module.exports = {
       notify: false, // hide the notification
       host: 'localhost',
       port: 3000,
-      proxy: 'http://localhost/fyrefest2020',
+      proxy: 'http://localhost/fyre',
       files: [
             '**/*.html'
         ]
